@@ -1,5 +1,6 @@
 t is a distributed version control system.
 Git is free software.
+no-ff needs a new commit/
 <<<<<<< HEAD
 Creating a new branch is quick and  simple.
 =======
